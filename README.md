@@ -1,4 +1,4 @@
-# 🌍 Atlas Travel Diary App  
+# 🌍 Atlas Journey Travel Diary App  
 
 ## Github Repository
 https://github.com/Lawson-Hong-Duong/Atlas-TravelDiary-App
