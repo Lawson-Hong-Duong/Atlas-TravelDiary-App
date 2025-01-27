@@ -1,0 +1,22 @@
+.header {
+  height: 4rem;
+  padding-left: var(--mantine-spacing-md);
+  padding-right: var(--mantine-spacing-md);
+  border-bottom: 0.01rem solid var(--mantine-color-gray-3);
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  padding-left: var(--mantine-spacing-md);
+  padding-right: var(--mantine-spacing-md);
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+  font-size: var(--mantine-font-size-sm);
+
+  @mixin hover {
+    background-color: var(--mantine-color-gray-0);
+  }
+}
