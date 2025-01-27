@@ -1,6 +1,9 @@
-# Travel Diary Application 
+# 🌍 Atlas Travel Diary App  
 
-## Description
+## Github Repository
+https://github.com/Lawson-Hong-Duong/Atlas-TravelDiary-App
+
+## 📜 Description  
 
 The Travel Diary Application is designed to help users document their travel experiences, plan trips, and explore new destinations. The application targets travelers who want to keep a detailed record of their journeys, including diary entries, trip plans, and events. The data sources include user-generated content and external APIs for weather and event information.
 
@@ -20,12 +23,17 @@ The Travel Diary Application is designed to help users document their travel exp
 - Travel Influencers: Users who wish to share their travel experiences publicly.
 - Travel Enthusiasts: Those who frequently explore new destinations and need a hub for documenting and planning trips.
 
-##### Data Sources:
-- OpenWeatherMap API: Provides current weather data and forecasts.
-- Google Maps API: Enables geotagging of diary entries and map visualisation.
-- Ticketmaster API: Offers data on local events and activities.
+## 🛠️ Tech Stack  
 
-# Implemented Features
+| Layer           | Technology                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Frontend**    | React.js, Mantine UI, Axios                                                |
+| **Backend**     | Node.js, Express.js                                                       |
+| **Database**    | MongoDB                                                                   |
+| **APIs Used**   | OpenWeatherMap (weather), Stadia Maps (maps), Ticketmaster (event data)    |
+
+
+# ✨ Implemented Features
 ##### User Authentication: 
 - Secure user registration and login system.
 
@@ -34,7 +42,7 @@ The Travel Diary Application is designed to help users document their travel exp
 - Shortcuts to next upcoming trip, or latest diary entry.
 - User XP Leveling system.
 
-##### Diary Creation and Management:
+##### 📖 Diary Creation and Management:
 - Ability to create diaries and add chapters.
 - Text editor with styling options.
 - Upload photos to chapters.
@@ -42,18 +50,18 @@ The Travel Diary Application is designed to help users document their travel exp
 - Public or private visibility settings for diaries.
 - Shareable links for public diaries.
 
-##### Trip Planner:
+##### 🗓️ Trip Planner:
 - Organise trips with detailed information.
 - Add flights, accommodations, activities, ferries, trains, events, restaurants and notes.
 - Budgeting tool to manage and calculate expenses.
 
-##### Map View: 
+##### 🗺️ Map View: 
 - Visual representation of diary chapters on a map with pinned locations.
 
-##### Events Page: 
+##### 🎟️ Events Page: 
 - Search and explore local events by city, date, and type.
 
-##### Weather Page: 
+##### ☁️ Weather Page: 
 - Access to current weather conditions and a 5-day forecast.
 
 # Milestones Achieved
